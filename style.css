@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&family=Space+Mono:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #2e2e2e;
+}
+
+.inner {
+  text-align: center;
+  color: #f5f5f5;
+}
+
+h1 {
+  font-family: 'Over the Rainbow', cursive;
+  font-size: 5em;
+}
+
+p {
+  font-family: 'Space Mono', monospace;
+  font-size: 1.3em;
+}
+
+span {
+  color: orange;
+}
